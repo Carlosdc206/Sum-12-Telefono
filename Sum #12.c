@@ -1,3 +1,5 @@
+#include <iostream>
+#include <string>
 
 using namespace std;
 
@@ -13,19 +15,19 @@ string email;
 
 
 
-cout<<"Agregar contacto""<<
-cout<<"Modificar contacto<<
+cout<<"Agregar contacto"<<
+cout<<"Modificar contacto"<<
 cout<<"buscar contacto"<<
 cout<<"salir"<<
 
 
 switch
 case 1:{
-cout<<"Ingrese nombre(s):" \n";
+cout<<"Ingrese nombre:" \n";
 break
 
 case 2	
-cout<<"Ingrese apellido(s): \n";
+cout<<"Ingrese apellido: \n";
 break;
 cout<<"Ingrese telefono: \n";
 
